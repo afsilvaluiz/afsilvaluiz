@@ -1,6 +1,6 @@
 # Hi there! </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=21838E&random=false&width=920&height=180&lines=git+commit+-m+%22I'm+a+Javascript+Developer%22)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=21838E&random=false&width=920&height=180&lines=git+commit+-m+%22I'm+a+Javascript+Developer%22)](https://git.io/typing-svg)
 
 ## Status Quo: 💭 
 - Exploring and Studyng:
