@@ -1,4 +1,4 @@
-# Hi there! </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80">
+# Hi there! </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="55">
 
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=21838E&random=false&width=920&height=180&lines=git+commit+-m+%22I'm+a+Javascript+Developer%22)](https://git.io/typing-svg)
 
@@ -23,9 +23,9 @@
 
 <p><h1>Stats</h1></p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+| <a href="https://github.com/anuraghazra/github-readme-stats">
  <img height=180 align="center" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=afsilvaluiz&count_private=true&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&custom_title=Stats" />
-</a>  
-<a href="https://github.com/anuraghazra/github-readme-stats">
+</a> 
+| <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=180 align="center" alt="Luiz Silva Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afsilvaluiz&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />
 </a>
