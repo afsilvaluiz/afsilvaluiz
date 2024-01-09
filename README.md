@@ -1,7 +1,5 @@
-<p align="center"><img src="src/resources/images/luizSilva.png" width="600"/></p>
- 
- 
- <h1 align="center">  I'm Luiz Silva, a Javascript Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h1>
+<p align="center"><img src="src/resources/images/luizSilva.png" width="600" /></p>  
+ <p align="center" >I'm Luiz Silva, a Javascript Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></p>
 
 
 ## Status Quo: 💭 
