@@ -1,29 +1,30 @@
-<p align="center"><img src="src/resources/images/luizSilva.png" width="600" /></p> 
+<h1>
+<img align="center" src="src/resources/images/header.png" width=1200/>  
+</h1>
 
-<h3 align="center"><strong>I'm Luiz Silva, a Javascript Developer</strong><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width=50></h3>
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="350px" min-width="350px" max-width="350px" align="right" alt="giphy a cat typing">
 
+<p align="left">As a JavaScript developer, I value continuous learning through hands-on experience. 
+<br>My professional approach is characterised by strong organisational skills, perseverance, <br>and a proactive attitude. I thrive in collaborative environments and am enthusiastic about contributing, absorbing new knowledge, and remaining dedicated to ongoing learning.</p> 
 
-<br></br>
-
-
-## Status Quo: 💭 
-- Exploring and Studyng:
-
-<code><img title="JavaScript" alt="javascript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
-<code><img title="Typescript" alt="typescript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></code>
-<code><img title="HTML 5" alt="html5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
+- 📌: Main language: <code><img title="JavaScript" alt="javascript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
+  ######
+- :bulb: Frontend: <code><img title="HTML 5" alt="html5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
 <code><img title="CSS 3" alt="css 3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code>
 <code><img title="Tailwind" alt="tailwind" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /></code> 
-<code><img title="ReactJS" alt="react js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code>
-<code><img title="NodeJS" alt="node js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></code>
-</br></br>
+<code><img title="Typescript" alt="typescript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></code>
+<code><img title="ReactJS" alt="react js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code> 
+  ######
+- 📡 Backend: <code><img title="NodeJS" alt="node js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></code>
 <code><img title="Express" alt="express" width="30px" src="https://skillicons.dev/icons?i=express" /></code>
 <code><img title="NPM" alt="npm" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /></code>
 <code><img title="Sqlite" alt="sqlite" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" /></code>
 <code><img title="MySQL" alt="mysql" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></code>
+  ######
+- 🗃 Version Control:
 <code><img title="Git" alt="git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
 <code><img title="GitHub" alt="github" width="30px" src="https://skillicons.dev/icons?i=github" /></code>
-<code><img title="Blender" alt="blender" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" /></code>      
+     
 </br></br>
 
 ## GitHub Stats: 📈
