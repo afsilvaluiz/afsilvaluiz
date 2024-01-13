@@ -1,8 +1,8 @@
 <h1>
-<img align="center" src="src/resources/images/header.png" width=1200/>  
+<img align="center" src="src/resources/images/header.png" width=1200 alt="Luiz-Silva"/>  
 </h1>
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="350px" min-width="350px" max-width="350px" align="right" alt="giphy a cat typing">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="350px" min-width="350px" max-width="350px" align="right" alt="giphy-a-cat-typing">
 
 <p align="left">As a JavaScript developer, I value continuous learning through hands-on experience. 
 <br>My professional approach is characterised by strong organisational skills, perseverance, and a proactive attitude. I thrive in collaborative environments and am enthusiastic about contributing, absorbing new knowledge, and remaining dedicated to ongoing learning.</p> 
