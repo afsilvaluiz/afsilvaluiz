@@ -1,6 +1,8 @@
-<h1>
-<img align="center" src="src/resources/images/header.png" width=1200 alt="Luiz-Silva"/>  
-</h1>
+<header>
+<img align="center" src="src/resources/images/header.png" alt="Luiz-Silva"/>  
+</header>
+
+---
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="350px" min-width="350px" max-width="350px" align="right" alt="giphy-a-cat-typing">
 
