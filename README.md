@@ -2,6 +2,8 @@
 <img align="center" src="src/resources/images/header.png" alt="Luiz-Silva"/>  
 </header>
 
+---
+
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="350px" min-width="350px" max-width="350px" align="right" alt="giphy-a-cat-typing">
 
 <p align="left">As a JavaScript developer, I value continuous learning through hands-on experience. 
