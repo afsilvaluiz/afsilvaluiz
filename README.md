@@ -26,8 +26,7 @@
 - 🗃 Version Control:
 <code><img title="Git" alt="git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
 <code><img title="GitHub" alt="github" width="30px" src="https://skillicons.dev/icons?i=github" /></code>
-     
-</br></br>
+<br/>
 
 ## Stats: 📈
 
