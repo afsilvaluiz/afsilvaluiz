@@ -8,7 +8,7 @@
   
 <p align="left">
 As a JavaScript developer, I value continuous learning through hands-on experience. 
-<br>My professional approach is characterised by strong organisational skills, perseverance, and a proactive attitude. I thrive in collaborative environments and am enthusiastic about contributing, absorbing new knowledge, and remaining dedicated to ongoing learning.
+<br>My professional approach is characterised by strong organisational skills, perseverance, <br/>and a proactive attitude. I thrive in collaborative environments and am enthusiastic about <br/>contributing, absorbing new knowledge, and remaining dedicated to ongoing learning.
 </p>
 <br/>
 
