@@ -10,19 +10,15 @@ As a JavaScript developer, I value continuous learning through hands-on experien
 </p>
 <br/>
 
-
 ## Current Stack
-
 - 📌 Main language: `Javascript`
 - 💡 Frontend: `HTML5` `CSS3` `Tailwind` `ReactJS`
 - 📡 Backend: `NodeJS` `Express` `NPM` `Sqlite` `MySQL`
 - 🗃 Version Control: `Git` `GitHub`
 - 🎨 Layout Design: `Figma`
-
 <br/>
 
 ## Stats:
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=180 align="center" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api/?username=afsilvaluiz&count_private=true&show_icons=true&rank_icon=github&theme=react&hide_border=true&bg_color=1F222E&title_color=21838E&icon_color=21838E" />
 </a> 
