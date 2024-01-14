@@ -5,14 +5,14 @@
 ---
 
 <main>
+
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="350px" min-width="300px" max-width="350px" align="right" alt="giphy-a-cat-typing">
   
 <p align="left">
 As a JavaScript developer, I value continuous learning through hands-on experience. 
-<br>My professional approach is characterised by strong organisational skills, perseverance, <br/>and a proactive attitude. I thrive in collaborative environments and am enthusiastic about <br/>contributing, absorbing new knowledge, and remaining dedicated to ongoing learning.
+<br>My professional approach is characterised by strong organisational skills, perseverance, and a proactive attitude. I thrive in collaborative environments and am enthusiastic about contributing, absorbing new knowledge, and remaining dedicated to ongoing learning.
 </p>
 <br/>
-
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="350px" min-width="300px" max-width="350px" align="right" alt="giphy-a-cat-typing">
 
 - 📌 Main language: <code><img title="JavaScript" alt="javascript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
 
