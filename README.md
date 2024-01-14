@@ -3,12 +3,13 @@
 </header>
 
 ## About
-<img align="right" width="450px" min-width="400px" max-width="450px" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="giphy-a-cat-typing">
-<p align="left">
+<img align="right" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="giphy-a-cat-typing">
+<p align="left" width="300px" min-width="450px" max-width="450px">
 As a JavaScript developer, I value continuous learning through hands-on experience. 
 <br>My professional approach is characterised by strong organisational skills, perseverance, and a proactive attitude. I thrive in collaborative environments and am enthusiastic about contributing, absorbing new knowledge, and remaining dedicated to ongoing learning.
 </p>
 <br/>
+
 
 ## Current Stack
 
