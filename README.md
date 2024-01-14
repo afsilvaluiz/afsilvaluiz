@@ -14,8 +14,8 @@ As a JavaScript developer, I value continuous learning through hands-on experien
 ## Current Stack
 
 - 📌 Main language: `Javascript`
-- :bulb: Frontend: `HTML5`, `CSS3`, `Tailwind`, `Typescript`, `ReactJS`
-- 📡 Backend: `NodeJS`, `Express`, `NPM`, `Sqlite`, `MySQL`
+- 💡Frontend: `HTML5`, `CSS3`, `Tailwind`, `Typescript`, `ReactJS`
+- 📡Backend: `NodeJS`, `Express`, `NPM`, `Sqlite`, `MySQL`
 - 🗃 Version Control: `Git`, `GitHub`
 - 🎨 Layout Design: `Figma`
 
