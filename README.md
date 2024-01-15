@@ -4,7 +4,7 @@
 
 ## About
 <p align="left">
-<img align="right" width="300px" min-width="300px" max-width="300px" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="giphy-a-cat-typing">
+<img align="right" width="320px" min-width="300px" max-width="300px" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="giphy-a-cat-typing">
 As a JavaScript developer, I value continuous learning through hands-on experience. 
 <br>My professional approach is characterised by strong organisational skills, perseverance, and a proactive attitude. I thrive in collaborative environments and am enthusiastic about contributing, absorbing new knowledge, and remaining dedicated to ongoing learning.
 </p>
