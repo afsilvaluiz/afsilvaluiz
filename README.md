@@ -17,8 +17,6 @@ My professional approach is characterized by strong organizational skills, perse
 - 📡 Backend: `NodeJS` `Express` `NPM` `Sqlite` `MySQL`
 - 🗃 Version Control: `Git` `GitHub`
 - 🎨 Layout Design: `Figma`
-<br/>
-
 
 ### Stats
 [![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=luiz_albert&count=2&bg_color=1F222E&border_radius=3&header_style=none)](https://www.last.fm/user/luiz_albert)
