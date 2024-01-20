@@ -8,6 +8,7 @@
 As a JavaScript developer, I prioritize continuous learning through hands-on experience.<br>
 My professional approach is characterized by strong organizational skills, perseverance, <br>and a proactive attitude. I thrive in collaborative environments and have an enthusiasm <br>to contribute, assimilate new knowledge and commit to continuous learning.
 </p>
+<img align="right" width="350px" min-width="300px" max-width="300px"  src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="giphy-a-cat-typing">
 
 ### Current Stack
 - 📌 Main language: `Javascript`
@@ -15,8 +16,7 @@ My professional approach is characterized by strong organizational skills, perse
 - 📡 Backend: `NodeJS` `Express` `NPM` `Sqlite` `MySQL`
 - 🗃 Version Control: `Git` `GitHub`
 - 🎨 Layout Design: `Figma`
-<img align="right" width="350px" min-width="300px" max-width="300px"  src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="giphy-a-cat-typing">
-<br/>
+
 
 ### Stats
 [![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=luiz_albert&count=2&bg_color=1F222E&border_radius=3&header_style=none)](https://www.last.fm/user/luiz_albert)
