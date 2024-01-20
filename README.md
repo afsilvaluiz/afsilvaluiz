@@ -23,7 +23,7 @@ My professional approach is characterized by strong organizational skills, perse
   <img height=120 align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api/?username=afsilvaluiz&count_private=true&show_icons=true&rank_icon=github&theme=react&hide_border=true&bg_color=1F222E&title_color=21838E&icon_color=21838E" />
 </a> 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=120 align="right" alt="Luiz Silva Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afsilvaluiz&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=21838E&icon_color=F8D866" />
+  <img height=75 align="right" alt="Luiz Silva Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afsilvaluiz&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=21838E&icon_color=F8D866" />
 </a>
 
 
