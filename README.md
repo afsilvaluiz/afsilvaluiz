@@ -16,6 +16,7 @@ My professional approach is characterized by strong organizational skills, perse
 - 🗃 Version Control: `Git` `GitHub`
 - 🎨 Layout Design: `Figma`
 
+<br/>
 
 ### Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
