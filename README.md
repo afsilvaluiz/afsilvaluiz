@@ -7,8 +7,8 @@
 As a JavaScript developer, I prioritize continuous learning through hands-on experience.<br>
 My professional approach is characterized by strong organizational skills, perseverance, <br>and a proactive attitude. I thrive in collaborative environments and have an enthusiasm <br>to contribute, assimilate new knowledge and commit to continuous learning.
 </p>
-<br/>
 <img align="right" width="350px" min-width="300px" max-width="300px"  src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="giphy-a-cat-typing">
+<br/>
 
 ### Current Stack
 - 📌 Main language: `Javascript`
