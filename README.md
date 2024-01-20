@@ -24,10 +24,10 @@ My professional approach is characterized by strong organizational skills, perse
 [![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=luiz_albert&count=2&bg_color=1F222E&border_radius=3&header_style=none)](https://www.last.fm/user/luiz_albert)
 <br/>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=180 align="center" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api/?username=afsilvaluiz&count_private=true&show_icons=true&rank_icon=github&theme=react&hide_border=true&bg_color=1F222E&title_color=21838E&icon_color=21838E" />
+  <img height=150 align="center" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api/?username=afsilvaluiz&count_private=true&show_icons=true&rank_icon=github&theme=react&hide_border=true&bg_color=1F222E&title_color=21838E&icon_color=21838E" />
 </a> 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=180 align="center" alt="Luiz Silva Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afsilvaluiz&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=21838E&icon_color=F8D866" />
+  <img height=150 align="center" alt="Luiz Silva Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afsilvaluiz&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=21838E&icon_color=F8D866" />
 </a>
 
 
